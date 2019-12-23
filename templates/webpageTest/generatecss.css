@@ -1,0 +1,17 @@
+body {
+    background: lightgrey;
+}
+/* remove bullet points from UL */
+ul{
+    list-style-type:none;
+}
+.container {
+    width: 90%;
+    height: 90%
+}
+.jumbotron{
+    background-color: #1fa463;
+    text-align: center;
+}
+
+
